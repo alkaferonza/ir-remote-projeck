@@ -1,0 +1,5 @@
+C:\Users\MSI Thin\source\repos\ir remote projeck\ir remote projeck\obj\x64\Debug\net10.0\ir remote projeck.csproj.AssemblyReference.cache
+C:\Users\MSI Thin\source\repos\ir remote projeck\ir remote projeck\obj\x64\Debug\net10.0\ir remote projeck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI Thin\source\repos\ir remote projeck\ir remote projeck\obj\x64\Debug\net10.0\ir remote projeck.AssemblyInfoInputs.cache
+C:\Users\MSI Thin\source\repos\ir remote projeck\ir remote projeck\obj\x64\Debug\net10.0\ir remote projeck.AssemblyInfo.cs
+C:\Users\MSI Thin\source\repos\ir remote projeck\ir remote projeck\obj\x64\Debug\net10.0\ir remote projeck.csproj.CoreCompileInputs.cache
